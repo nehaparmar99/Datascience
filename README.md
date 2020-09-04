@@ -1,1 +1,9 @@
 # Datascience
+5th Semester
+SUBJECT CODE-CSE 344
+SUBJECT NAME-DATA SCIENCE
+FACULTY NAME-Prof.VIJAY BHASKAR
+
+ASSIGNMENT-1
+Assignment1.ipynb
+Iris-SepalLength.ipynb
